@@ -1,0 +1,29 @@
+.inline {
+  display:inline-block;
+  margin: 0.5rem;
+}
+
+.inline_btn {
+  display:inline-block;
+  background-color:dodgerblue;
+  border-radius: 25px;
+  color:white;
+  margin: 0.5rem;
+}
+
+.disabled {
+  display:inline-block;
+  background-color:dodgerblue;
+  border-radius: 25px;
+  color:white;
+  margin: 0.5rem;
+  opacity: 0.5;
+}
+
+.feature {
+  font-family:"Impact";
+  font-size:20px;
+  text-decoration:underline;
+  text-decoration-color:maroon;
+  text-decoration-thickness:3px;
+}
